@@ -1,0 +1,15 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 🐛 Comunique um problema
+    url: https://github.com/zoonk/manual/discussions/new?category=problemas
+    about: Comunique um problema que precisa ser corrigido.
+    
+  - name: 💡 Faça uma sugestão
+    url: https://github.com/zoonk/manual/discussions/new?category=ideias
+    about: Compartilhe ideias para melhorar o nosso trabalho.
+    
+  - name: 🙏 Peça ajuda
+    url: https://github.com/zoonk/manual/discussions/new?category=ajuda
+    about: Tire qualquer dúvida que você tenha.
+  
