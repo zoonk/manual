@@ -98,3 +98,72 @@ Caso contrário, pule para a sessão "[Publicando alterações](#publicando-alte
 
 Antes de adicionar um novo documento, tenha certeza que você criou uma nova `branch`
 e que você esteja trabalhando nessa `branch` ao invés da principal (`main`).
+
+Depois de criar a sua `branch`, você pode adicionar um novo documentos clicando nos botões `Add file` e `Create new file`.
+Se você já tiver criado os documentos no seu computador e não quiser utilizar o editor do GitHub,
+pode usar a opção `Upload files` para enviar os arquivos do seu computador para o repositório no GitHub.
+
+<img alt="Captura de tela do GitHub mostrando a opção para criar um arquivo" src="https://user-images.githubusercontent.com/4393133/175760441-23dbdf2b-71af-4020-b9ce-7fc79571436d.png">
+
+Antes de começar a digitar o conteúdo do documento, lembre-se de dar um nome para ele:
+
+<img alt="Captura de tela do GitHub mostrando o campo para nomear um arquivo" src="https://user-images.githubusercontent.com/4393133/175760469-2a4c19c0-4371-4ac5-abc7-c8566170863d.png">
+
+Você pode adicionar esse documento a uma pasta específica digitando `/` depois do nome da pasta.
+Por exemplo: `sobre/valores/README.md` criaria um documento com o nome `README.md` na pasta `sobre/valores`.
+Se a pasta `sobre` e/ou `valores` não existir, o GitHub vai criá-la.
+
+Após nomear o documento, digite o conteúdo desejado e clique no botão `Commit changes` para salvar o documento.
+Lembrando que o arquivo será salvo apenas na sua `branch` por enquanto.
+Você ainda precisará abrir uma `pull request` para solicitar que as suas alterações sejam publicadas.
+
+### Apagando um documento
+
+Para apagar um documento você pode seguir os mesmos passos utilizados para atualizar algo.
+Porém, você precisará clicar no ícone de lixeira ao invés de clicar no de lápis.
+
+### Publicando alterações
+
+Como falamos na parte dos [principais conceitos](#principais-conceitos), uma `branch` é onde salvamos as novas alterações de forma temporária.
+Por enquanto, as suas alterações estão visíveis apenas na sua `branch` porque elas não estão publicadas ainda.
+É como se fosse o nosso rascunho. Podemos colocar qualquer alteração lá, que não vai afetar o que está publicado na `branch` principal (`main`).
+Para publicar as suas alterações, você precisa abrir uma [pull request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+
+Abir uma `pull request` é a forma de pedir que o seu trabalho seja revisado por outro integrante da equipe.
+Depois que a sua alteração for aprovada, ela será publicada na `branch` principal (`main`) e a sua `branch` temporária será apagada.
+Você pode seguir estes passos para abrir uma `pull request`:
+
+- Clique na aba `Pull requests`.
+- Clique no botão `New pull request`.
+- No menu `base`, selecione `main`. É lá que você precisa publicar as suas alterações.
+- No menu `compare`, selecione a `branch` que você criou.
+- Clique no botão `Create pull request`.
+
+O GitHub vai mostrar todas as alterações feitas por você.
+Por favor, revise as suas modificações antes de abrir a `pull request`.
+Se tudo estiver correto, faça o seguinte:
+
+- Dê um título descritivo para as suas alterações, começando com a sessão que você está modificando
+(ex. `Como trabalhamos: Atualiza instruções sobre como apagar um documento`).
+- Descreva as alterações que você fez e acrescente quaisquer comentários que possam ser relevantes para explicar a mudança.
+- Se a sua `pull request` for relacionada à uma tarefa, use a palavra-chave `Closes #42`, onde `42` é o número de identificação da tarefa.
+Isso vai garantir que a tarefa seja encerrada automaticamente quando a `pull request` for publicada na `branch` principal.
+- Na coluna do lado direito tem dois items chamados `Reviewers` (Revisores) e `Asignees` (Designados):
+
+<img alt="Captura de tela do GitHub mostrando a coluna lateral direita" src="https://user-images.githubusercontent.com/4393133/175761006-966d6a5c-b91e-49fe-bf07-0520e223974e.png">
+
+Quando abrir a `pull request` peça a revisão de quem lidera o projeto e designe a revisão para essa pessoa também.
+Ou seja, adicione ela como `Reviewer` e `Assignee`.
+Você pode conferir quem lidera o projeto no arquivo `README.md` da pasta principal.
+
+Após seguir os passos acima, clique no botão `Create pull request`.
+O GitHub vai criar uma `pull request` para que seja revisada.
+Depois de aprovada, ela será publicada na `branch` principal (`main`) pela pessoa que revisou por último o seu trabalho.
+
+**Importante:** Depois de criar a `pull request`, mova a sua tarefa da coluna `Em Progresso` para `Em Revisão`.
+Se você precisar fazer uma correção pequena (ex. corrigir um erro de digitação), não é necessário criar uma tarefa (`issue`) para isso.
+
+## Encontrou algum problema?
+
+- [Sugerir alteração](https://github.com/zoonk/manual/edit/main/como-trabalhamos/como-usar-o-github.md)
+- [Iniciar conversa](https://github.com/zoonk/manual/discussions/new)
