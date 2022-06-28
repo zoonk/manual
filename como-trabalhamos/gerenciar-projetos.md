@@ -79,6 +79,17 @@ Vamos começar criando um código de conduta:
 - [ ] Procure a parte onde diz `[INSERIR MÉTODO DE CONTATO]` e substitua esse texto pelo link https://forms.gle/BqKXt4i5oNEpCMKh8.
 - [ ] Clique em `Commit new file` para salvar o documento.
 
+Usamos o GitHub Discussions para comunicar erros, sugerir novas funcionalidades e discutir ideias.
+Portanto, tarefas (`issues`) devem ser criadas apenas por integrantes da nossa equipe.
+Para diminuir as chances de um contribuidor externo criar uma tarefa sem iniciar uma conversa primeiro,
+precisamos atualizar os nossos modelos de tarefa (`Issue templates`):
+
+- [ ] Crie um novo documento na pasta `.github/ISSUE_TEMPLATE` com o nome `config.yml`.
+- [ ] Copie o conteúdo [deste arquivo](../.github/ISSUE_TEMPLATE/config.yml) no novo documento.
+- [ ] Atualize os links do documento para utilizar o endereço (URL) do novo repositório.
+- [ ] Crie um novo documento na pasta `.github/ISSUE_TEMPLATE` com o nome `tarefa-aprovada.md`.
+- [ ] Copie o conteúdo [deste arquivo](../.github/ISSUE_TEMPLATE/tarefa-aprovada.md) no novo documento.
+
 ## Encontrou algum problema?
 
 - [Sugerir alteração](https://github.com/zoonk/manual/edit/main/como-trabalhamos/gerenciar-projetos.md)
