@@ -65,11 +65,3 @@ Não tem garantia de que vamos ter sucesso, mas vamos continuar tentando até qu
 Você pode dar uma olhada na [página de projetos](https://github.com/orgs/zoonk/projects?type=beta) para ver no que estamos trabalhando atualmente.
 Mas este é um esforço colaborativo.
 Se você tiver alguma ideia ou sugestão, compartilhe com a gente no [fórum de discussão](https://github.com/zoonk/manual/discussions).
-
-## Encontrou algum problema?
-
-Queremos contribuir para uma sociedade melhor.
-Se você que algo nesta página não reflete esse objetivo, por favor nos avise usando uma das opções abaixo:
-
-- [Sugerir alteração](https://github.com/zoonk/manual/edit/main/sobre/README.md)
-- [Iniciar conversa](https://github.com/zoonk/manual/discussions/new)
