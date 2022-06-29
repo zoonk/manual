@@ -156,8 +156,3 @@ mas não temos os recursos necessários para isso no momento.
 Apenas para situações que não sejam de trabalho, como atividades recreativas.
 Usamos a comunicação síncrona quando queremos nos conectar, conhecer mais uns aos outros, nos divertir.
 Mas, para discutir temas de trabalho, usamos a comunicação assíncrona.
-
-## Encontrou algum problema?
-
-- [Sugerir alteração](https://github.com/zoonk/manual/edit/main/como-trabalhamos/comunicacao-assincrona.md)
-- [Iniciar conversa](https://github.com/zoonk/manual/discussions/new)
