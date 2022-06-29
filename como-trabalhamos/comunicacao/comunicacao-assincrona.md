@@ -35,7 +35,7 @@ Não tem necessidade de nos explicarmos para outras pessoas.
 
 ### Transparência
 
-[Transparência é um dos nossos principais valores](../sobre/valores#transparência).
+[Transparência é um dos nossos principais valores](../../sobre/valores#transparência).
 Queremos que todo o nosso trabalho fique aberto, transparente e claro.
 Isso não seria possível se utilizássemos comunicação síncrona.
 
@@ -128,7 +128,7 @@ E a comunicação assíncrona é essencial para focar porque ela não tem interr
 
 A comunicação assíncrona também tem desafios.
 Ela exige que abordemos o nosso trabalho de uma forma diferente.
-Por isso, que o [senso de dono](../sobre/valores.md#senso-de-dono) é importante.
+Por isso, que o [senso de dono](../../sobre/valores.md#senso-de-dono) é importante.
 A comunicação assíncrona não funciona se esperamos alguém nos falar o que fazer.
 Precisamos tomar a frente das coisas.
 
