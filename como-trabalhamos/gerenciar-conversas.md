@@ -8,7 +8,7 @@ Quando não sabemos em qual projeto iniciar a conversa,
 postamos na [página de discussões aqui do manual](https://github.com/zoonk/manual/discussions)
 para que alguém direcione a postagem para a área mais adequada.
 
-Como nos comunicamos de [forma assíncrona](./comunicacao-assincrona.md) e [valorizamos a transparência](../sobre/valores.md#transparência),
+Como nos comunicamos de [forma assíncrona](./comunicacao/comunicacao-assincrona.md) e [valorizamos a transparência](../sobre/valores.md#transparência),
 preferimos manter todas as conversas no GitHub Discussions.
 Portanto, não usamos e-mail, Slack, WhatsApp ou outras ferramentas similares com frequência.
 A exceção é quando estivermos lidando com dados sensíveis (ex. dados e avaliações pessoais, conflitos, etc.).
