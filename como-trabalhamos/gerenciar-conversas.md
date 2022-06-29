@@ -32,8 +32,3 @@ Podemos acompanhar as discussões seguindo o repositório do projeto:
 - Clique no menu `Custom`.
 - Selecione a opção `Discussions`.
 - Confirme a seleção clicando no botão `Apply`.
-
-## Encontrou algum problema?
-
-- [Sugerir alteração](https://github.com/zoonk/manual/edit/main/como-trabalhamos/gerenciar-conversas.md)
-- [Iniciar conversa](https://github.com/zoonk/manual/discussions/new)
