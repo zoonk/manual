@@ -35,7 +35,7 @@ Não tem necessidade de nos explicarmos para outras pessoas.
 
 ### Transparência
 
-[Transparência é um dos nossos principais valores](../../sobre/valores#transparência).
+[Transparência é um dos nossos principais valores](../../sobre/valores.md#transparência).
 Queremos que todo o nosso trabalho fique aberto, transparente e claro.
 Isso não seria possível se utilizássemos comunicação síncrona.
 
