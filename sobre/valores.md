@@ -107,11 +107,3 @@ Eventualmente, uma decisão será tomada.
 Aceitamos essa decisão e trabalhamos juntos para que ela funcione.
 Mesmo quando discordamos com ela.
 Mas podemos (e devemos) sempre rever essas decisões e discordâncias de tempos em tempos.
-
-## Encontrou algum problema?
-
-Queremos contribuir para uma sociedade melhor.
-Se você que algo nesta página não reflete esse objetivo, por favor nos avise usando uma das opções abaixo:
-
-- [Sugerir alteração](https://github.com/zoonk/manual/edit/main/sobre/valores.md)
-- [Iniciar conversa](https://github.com/zoonk/manual/discussions/new)
