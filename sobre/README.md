@@ -62,6 +62,6 @@ Mas estamos criando este projeto para ajudar na tarefa.
 É um trabalho que vai envolver muita [tentativa e erro](https://en.wikipedia.org/wiki/Trial_and_error) até funcionar.
 Não tem garantia de que vamos ter sucesso, mas vamos continuar tentando até que possamos criar um impacto positivo no sistema de ensino.
 
-Você pode dar uma olhada na [página de projetos](https://github.com/orgs/zoonk/projects?type=beta) para ver no que estamos trabalhando atualmente.
+Você pode dar uma olhada na [página do projeto](https://github.com/orgs/zoonk/projects/11) para ver no que estamos trabalhando atualmente.
 Mas este é um esforço colaborativo.
 Se você tiver alguma ideia ou sugestão, compartilhe com a gente no [fórum de discussão](https://github.com/zoonk/manual/discussions).
