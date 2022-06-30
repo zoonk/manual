@@ -48,4 +48,6 @@ Pode parecer difícil agora, mas é bom no longo prazo.
 
 ### Raramente é apenas uma pergunta rápida
 
+Pode ser uma pergunta rápida para você, mas não para a pessoa que precisa respondê-la.
+A pessoa pode estar trabalhando em outra tarefa e precisa pará-la para responder a sua pergunta.
 
