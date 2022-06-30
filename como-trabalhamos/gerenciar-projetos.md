@@ -167,8 +167,3 @@ Por último, relacione este repositório ao projeto que você criou na primeira 
 - [ ] Clique na aba `Projects`.
 - [ ] Clique no botão `Add project`.
 - [ ] Selecione o projeto que você criou na primeira etapa.
-
-## Encontrou algum problema?
-
-- [Sugerir alteração](https://github.com/zoonk/manual/edit/main/como-trabalhamos/gerenciar-projetos.md)
-- [Iniciar conversa](https://github.com/zoonk/manual/discussions/new)

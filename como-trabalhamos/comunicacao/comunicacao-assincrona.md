@@ -35,7 +35,7 @@ Não tem necessidade de nos explicarmos para outras pessoas.
 
 ### Transparência
 
-[Transparência é um dos nossos principais valores](../sobre/valores#transparência).
+[Transparência é um dos nossos principais valores](../../sobre/valores.md#transparência).
 Queremos que todo o nosso trabalho fique aberto, transparente e claro.
 Isso não seria possível se utilizássemos comunicação síncrona.
 
@@ -128,7 +128,7 @@ E a comunicação assíncrona é essencial para focar porque ela não tem interr
 
 A comunicação assíncrona também tem desafios.
 Ela exige que abordemos o nosso trabalho de uma forma diferente.
-Por isso, que o [senso de dono](../sobre/valores.md#senso-de-dono) é importante.
+Por isso, que o [senso de dono](../../sobre/valores.md#senso-de-dono) é importante.
 A comunicação assíncrona não funciona se esperamos alguém nos falar o que fazer.
 Precisamos tomar a frente das coisas.
 
@@ -156,8 +156,3 @@ mas não temos os recursos necessários para isso no momento.
 Apenas para situações que não sejam de trabalho, como atividades recreativas.
 Usamos a comunicação síncrona quando queremos nos conectar, conhecer mais uns aos outros, nos divertir.
 Mas, para discutir temas de trabalho, usamos a comunicação assíncrona.
-
-## Encontrou algum problema?
-
-- [Sugerir alteração](https://github.com/zoonk/manual/edit/main/como-trabalhamos/comunicacao-assincrona.md)
-- [Iniciar conversa](https://github.com/zoonk/manual/discussions/new)

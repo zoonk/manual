@@ -60,8 +60,3 @@ Depois de revistarmos uma tarefa (`pull request`), existem dois cenários possí
 
 - Usamos a opção `Squash and merge` para publicar uma `pull request`.
 - Removemos toda a descrição gerada automaticamente pelo GitHub para evitar poluir o histórico de alterações.
-
-## Encontrou algum problema?
-
-- [Sugerir alteração](https://github.com/zoonk/manual/edit/main/CONTRIBUTING.md)
-- [Iniciar conversa](https://github.com/zoonk/manual/discussions/new)

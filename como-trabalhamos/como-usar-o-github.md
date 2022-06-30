@@ -162,8 +162,3 @@ Depois de aprovada, ela será publicada na `branch` principal (`main`) pela pess
 
 **Importante:** Depois de criar a `pull request`, mova a sua tarefa da coluna `Em Progresso` para `Em Revisão`.
 Se você precisar fazer uma correção pequena (ex. corrigir um erro de digitação), não é necessário criar uma tarefa (`issue`) para isso.
-
-## Encontrou algum problema?
-
-- [Sugerir alteração](https://github.com/zoonk/manual/edit/main/como-trabalhamos/como-usar-o-github.md)
-- [Iniciar conversa](https://github.com/zoonk/manual/discussions/new)
