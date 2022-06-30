@@ -141,7 +141,7 @@ Existem três coisas que precisamos olhar todos os dias de trabalho:
 
 Se não temos nenhuma tarefa designada para nós, nada para revisar e nenhuma conversa pendente,
 então podemos escolher uma nova tarefa que desperte o interesse.
-Todos os projetos e tarefas disponíveis estão visíveis na [página de projetos](https://github.com/orgs/zoonk/projects?type=beta).
+Todos os projetos e tarefas disponíveis estão visíveis na [página do projeto](https://github.com/orgs/zoonk/projects/11).
 Todas as tarefas na coluna `Próximas tarefas` estão aprovadas e podemos trabalhar nelas.
 
 ## E se eu não gostar de comunicação assíncrona?
