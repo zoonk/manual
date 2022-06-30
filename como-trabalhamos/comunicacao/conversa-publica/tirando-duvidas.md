@@ -50,4 +50,43 @@ Pode parecer difícil agora, mas é bom no longo prazo.
 
 Pode ser uma pergunta rápida para você, mas não para a pessoa que precisa respondê-la.
 A pessoa pode estar trabalhando em outra tarefa e precisa pará-la para responder a sua pergunta.
+Além disso, ela precisa pensar na resposta.
+Isso acaba provocando uma troca de contexto para entender o problema (ex. ter que vir até esta página para ver o problema citado).
+Quando a pessoa volta para o seu trabalho, já perdeu toda a linha de raciocínio anterior.
+Ou seja, pode ter sido mais rápido para você, mas não para a pessoa que interrompeu o trabalho dela para responder a sua dúvida.
 
+Esse problema não acontece quando fazemos perguntas em público porque qualquer pessoa poderia ter respondido à sua pergunta e
+também podemos dedicar um período de tempo no nosso dia justamente para responder as perguntas pendentes no fórum.
+
+### A necessidade de estar sempre conectado
+
+Fazer perguntas no privado cria a sensação de que precisamos estar sempre online porque alguém pode precisar da gente.
+Quando abraçamos a comunicação assíncrona e tiramos nossas dúvidas em público, já sabemos não é esperada uma resposta imediata.
+Dessa forma, não importa se a pessoa está conectada ou não.
+Podemos curtir a vida e voltar ao trabalho quando estivermos com vontade de trabalhar.
+
+Como qualquer pessoa pode responder àquela pergunta, talvez ela até já tenha sido respondida quando estivermos online novamente.
+Ou seja, às vezes é possível obter ainda mais rápido postando em público do que no privado.
+
+### Não existe pergunta "idiota"
+
+Muitas vezes não queremos tirar dúvidas em público pelo medo de sermos julgados por fazer perguntas "idiotas".
+Esse é um sinal claro de uma cultura tóxica.
+Não existem perguntas "idiotas".
+E não deveríamos nem mesmo usar esse termo.
+
+Ninguém é perfeito. Ninguém sabe tudo. Vamos errar muitas vezes.
+Com frequência, vamos dizer coisas erradas pela falta de contexto ou experiência.
+Isso é super normal e acontece até mesmo com as pessoas mais experientes.
+
+Se alguém disse que a sua pergunta é "idiota", "estúpida" ou algo semelhante, por favor comunique o fato para pessoas@zoonk.org.
+Essa pessoa não está seguindo o nosso [código de conduta](../../../CODE_OF_CONDUCT.md) e não deveria estar envolvida no projeto.
+Nós temos [tolerância zero](../../../sobre/valores.md#gentileza) com [babacas brilhantes](https://en.wikipedia.org/wiki/The_No_Asshole_Rule).
+
+## Como eu tiro dúvidas então
+
+_Está bem, não devo mandar mensagem particular para tirar dúvidas. O que devo fazer, então?_
+
+Use os nossos [fóruns de discussão](../../gerenciar-conversas.md).
+Todos os repositórios têm uma página chamada `Discussions` onde você pode tirar dúvidas.
+Quando tiver alguma pergunta, sugestão, opinião ou gostaria de compartilhar algo, inicie uma nova conversa lá.
