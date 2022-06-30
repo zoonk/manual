@@ -1,55 +1,16 @@
 # Como gerenciamos projetos
 
 Nós usamos o GitHub para gerenciar os nossos projetos e tarefas.
-A [página de projetos](https://github.com/orgs/zoonk/projects?type=beta) lista todas as atividades nas quais estamos trabalhando atualmente.
-Todos os projetos têm tarefas que precisam ser realizadas.
+A [página do projeto](https://github.com/orgs/zoonk/projects/11) lista todas as atividades nas quais estamos trabalhando atualmente.
 Nós valorizamos o [senso de dono](../sobre/valores.md#senso-de-dono).
 Portanto, cabe a cada um de nós escolher um projeto e tarefa nos quais gostaríamos de trabalhar.
 Não esperamos que outras pessoas nos digam o que fazer.
 Leia o [guia de contribuição](../CONTRIBUTING.md) para saber como ajudar no projeto.
 
-## Como iniciar um projeto
+## Criando um repositório
 
-Ao iniciar um novo projeto, tem duas coisas que precisamos fazer:
-
-### 1. Criar um novo projeto
-
-Todos os projetos precisam estar visíveis na [página de projetos](https://github.com/orgs/zoonk/projects?type=beta).
-Não importa se é apenas um rascunho ou trabalho em construção.
-Tudo está sempre em construção. :)
-Nós trabalhamos em público. Ou seja, compartilhamos o que estamos fazendo na medida que começamos a trabalhar em algo.
-
-Siga as etapas abaixo para criar um projeto:
-
-- [ ] Visite a [página de projetos](https://github.com/orgs/zoonk/projects?type=beta).
-- [ ] Clique no botão `New Project` para criar um novo projeto.
-- [ ] Escolha o modelo `Board` e clique no botão `Create`.
-- [ ] Dê um nome para o seu projeto clicando no título `@myusername's untitled project` e alterando ele.
-- [ ] Clique em `View 1` e troque o nome da aba para `Kanban`.
-- [ ] Troque o nome da coluna `Todo` para `Próximas Tarefas`.
-- [ ] Troque o nome da coluna `In Progress` para `Em Progresso`.
-- [ ] Troque o nome da coluna `Done` para `Completo`.
-- [ ] Depois da última coluna, clique no botão `+` para adicionar uma nova coluna.
-- [ ] Dê o nome de `Não Priorizadas` para a coluna. Vamos colocar lá todas as tarefas não priorizadas.
-- [ ] Crie uma nova coluna e dê o nome de `Em Revisão`. Vamos colocar lá todas as tarefas que tenham uma `pull request` aberta.
-- [ ] Arraste a coluna `Em Revisão` para a esquerda, colocando-a entre as colunas `Em Progresso` e `Completo`.
-- [ ] Crie uma nova aba clicando no botão `New View`.
-- [ ] Use o formato `Table` para criar uma tabela nessa aba.
-- [ ] Clique na aba e troque o nome para `Tarefas`.
-- [ ] Edite as configurações do projeto clicando no botão `...` e, depois, em `Settings`.
-- [ ] Escreva uma breve descrição explicando qual é o objetivo do projeto.
-- [ ] Clique no botão `Save` para salvar a descrição.
-- [ ] Desça para baixo na página até a área `Danger zone`.
-- [ ] Na sessão `Visibility` troque a opção de `Private` para `Public` para tornar o projeto visível para todos.
-- [ ] Na coluna da esquerda, clique no menu `Manage access`.
-- [ ] Na sessão `Invite collaborators`, adicione a equipe responsável por gerenciar o projeto.
-- [ ] Selecione `Write` no menu de permissões.
-- [ ] Clique no botão `Invite` para convidar essa equipe a entrar para o projeto.
-
-### 2. Criar um repositório
-
-Todas as informações sobre o projeto estarão em um repositório no GitHub.
-Portanto, precisamos criar um repositório para o nosso projeto:
+Às vezes, quando trabalhando em algo novo, pode ser útil criar um repositório.
+Caso seja necessário, siga os passos abaixo.
 
 - [ ] Navegue até a [lista de repositórios](https://github.com/orgs/zoonk/repositories).
 - [ ] Clique no botão `New repository` para criar um novo repositório.
@@ -160,10 +121,3 @@ Lembre-se também de remover outras funcionalidades não utilizadas:
 - [ ] Adicione palavras-chave relevantas ao seu projeto (ex. `manual`, `design`, `redes-sociais`, etc.).
 - [ ] Desmarque todas as opções que você não irá utilizar
 (ex. projetos que não são de software provavelmente não irão usar `releases`, `packages` e `environments`).
-
-Por último, relacione este repositório ao projeto que você criou na primeira etapa:
-
-- [ ] Abra o seu repositório.
-- [ ] Clique na aba `Projects`.
-- [ ] Clique no botão `Add project`.
-- [ ] Selecione o projeto que você criou na primeira etapa.
