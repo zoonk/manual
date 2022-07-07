@@ -1,10 +1,10 @@
 # Tirando dúvidas
 
 Digamos que você tenha alguma dúvida ou comentário sobre o conteúdo desta página.
-Você pode ficar tentando a enviar uma mensagem privado para o autor da página.
+Você pode ficar tentado a enviar uma mensagem particular para o autor dela.
 Nós não fazemos isso aqui. Ao invés disso, orientamos todos a postarem em fóruns públicos como o GitHub Discussions.
 
-## Por que querer mandar mensagem privada
+## Por que querer mandar mensagem particular
 
 - É apenas uma pergunta rápida.
 - Parece mais rápido.
@@ -15,7 +15,7 @@ Nós não fazemos isso aqui. Ao invés disso, orientamos todos a postarem em fó
 
 ### Transparência
 
-Quando você faz uma pergunta no privado, a outra pessoa também vai responder de forma privada.
+Quando você faz uma pergunta no particular, a outra pessoa também vai responder de forma privada.
 Essa dinâmica pode levar a um vai-e-vem de informações e a um processo decisório que não está visível para outras pessoas.
 Ao tomar decisões de "portas fechadas", não temos a compreensão completa das motivações e intenções que levaram a tais decisões.
 Se outra pessoa assume esse trabalho,
@@ -41,7 +41,7 @@ cargos cuja única utilidade é "atualizar" outras pessoas:
 Porque as informações estão escondidas.
 Apenas algumas pessoas têm o contexto de como certas decisões foram tomadas.
 
-_Mas e se minha equipe for pequena? Não vamos gastar muito tempo tirando dúvidas privadas!_
+_Mas e se minha equipe for pequena? Não vamos gastar muito tempo tirando dúvidas no particular!_
 Não importa. É melhor começar a praticar isso desde o início.
 Tornará muito mais fácil iniciar outras pessoas no projeto quando chegar a hora.
 Pode parecer difícil agora, mas é bom no longo prazo.
@@ -60,13 +60,13 @@ também podemos dedicar um período de tempo no nosso dia justamente para respon
 
 ### A necessidade de estar sempre conectado
 
-Fazer perguntas no privado cria a sensação de que precisamos estar sempre online porque alguém pode precisar da gente.
-Quando abraçamos a comunicação assíncrona e tiramos nossas dúvidas em público, já sabemos não é esperada uma resposta imediata.
+Fazer perguntas no particular cria a sensação de que precisamos estar sempre online porque alguém pode precisar da gente.
+Quando abraçamos a comunicação assíncrona e tiramos nossas dúvidas em público, já sabemos que não é esperada uma resposta imediata.
 Dessa forma, não importa se a pessoa está conectada ou não.
 Podemos curtir a vida e voltar ao trabalho quando estivermos com vontade de trabalhar.
 
 Como qualquer pessoa pode responder àquela pergunta, talvez ela até já tenha sido respondida quando estivermos online novamente.
-Ou seja, às vezes é possível obter ainda mais rápido postando em público do que no privado.
+Ou seja, às vezes é possível obter a resposta ainda mais rápido postando em público do que no privado.
 
 ### Não existe pergunta "idiota"
 
@@ -87,6 +87,6 @@ Nós temos [tolerância zero](../../../sobre/valores.md#gentileza) com [babacas 
 
 _Está bem, não devo mandar mensagem particular para tirar dúvidas. O que devo fazer, então?_
 
-Use os nossos [fóruns de discussão](../../gerenciar-conversas.md).
+Use os nossos [fóruns de discussões](../../gerenciar-conversas.md).
 Todos os repositórios têm uma página chamada `Discussions` onde você pode tirar dúvidas.
 Quando tiver alguma pergunta, sugestão, opinião ou gostaria de compartilhar algo, inicie uma nova conversa lá.
