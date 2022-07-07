@@ -3,7 +3,7 @@
 Nós trabalhamos utilizando [comunicação assíncrona](https://async.twist.com/asynchronous-communication/):
 
 > De forma simples, **comunicação assíncrona é quando você envia uma mensagem sem esperar uma resposta imediata**.
-> Por exemplo, você envia um e-mail. Eu abro e respondo o e-mail vários horas depois.
+> Por exemplo, você envia um e-mail. Eu abro e respondo o e-mail várias horas depois.
 >
 > Em contraste, **comunicação síncrona (ou em tempo real) é quando você envia uma mensagem e, quem recebe,
 > processa a informação e responde imediatamente**.
@@ -43,13 +43,13 @@ Se discutimos uma estratégia em uma reunião,
 sempre vai ter algum contexto perdido por lá,
 disponível apenas para quem participou da reunião.
 Se um grupo de pessoas toma uma decisão sozinho,
-os demais não tem o panorama completo dos motivos que levaram àquela decisão.
-Nós não queremos que decisões sejam tomadas atrás de portas fechadas.
+os demais não têm o panorama completo dos motivos que levaram àquela decisão.
+Nós não queremos que decisões sejam tomadas atrás de "portas fechadas".
 
 Ao utilizar comunicação assíncrona,
 todo o nosso trabalho e linha de raciocínio estão disponíveis para quem quiser ver.
 Não temos nada a esconder.
-Se cometermos algum erro, devemos ser responsabilizados por ele.
+Se cometermos algum erro, devemos ser responsabilizados por ele [enquanto equipe](../../sobre/valores.md#humildade).
 Isso só é possível quando tudo está claro, aberto e transparente.
 
 ### Documentação
@@ -80,7 +80,7 @@ Você controla a sua vida.
 Você adapta o trabalho à sua rotina e não o contrário.
 
 Dessa forma, você consegue ter mais controle sobre a sua vida.
-Você passar mais tempo com os filhos durante o dia.
+Você pode passar mais tempo com os filhos.
 Pode até sair para beber algo durante o dia, se quiser.
 Não precisa se preocupar com um chefe querendo saber onde você está ou se alguém precisa de você urgentemente.
 Aliás, não existe urgência no Zoonk.
@@ -94,21 +94,21 @@ Não somos um projeto na área de saúde.
 Ninguém vai morrer.
 Se precisamos de algo urgente é porque não nos planejamos bem.
 Nesses casos, precisamos esperar e nos planejar melhor da próxima vez.
-Trata-se de respeitar o tempo de cada um.
+Trata-se de **respeitar** o tempo de cada um.
 
-Isso também significa que temos mais tempo para pensar.
-Ao invés de se apressar para uma reunião e ir para lá, muitas vezes, despreparado,
-podemos entrar em uma conversa a qualquer momento e compartilhar o nosso ponto de vista.
-Isso nos permite pensar de forma mais profunda sobre o assunto que está sendo discutido, buscar referências, etc.
+Isso também significa que você tem mais tempo para pensar.
+Ao invés de se apressar para uma reunião e ir lá, muitas vezes, despreparado,
+você pode entrar em uma conversa e compartilhar o seu ponto de vista a qualquer momento.
+Isso te permite pensar de forma mais profunda sobre o assunto que está sendo discutido, buscar referências, etc.
 Não conseguiríamos fazer isso numa reunião porque ela exige uma resposta imediata.
 Dessa forma, a qualidade do trabalho também aumenta na comunicação assíncrona.
 
-Às vezes, vamos depender do trabalho de outras pessoas para continuar a nossa tarefa.
-Porém, isso não pode nos impedir de trabalhar em outras tarefas.
+Às vezes, você pode depender do trabalho de outras pessoas para continuar a sua tarefa.
+Porém, isso não deve te impedir de trabalhar em outras tarefas.
 Sempre vai ter trabalho disponível.
-Podemos passar para a próxima tarefa ou responder uma conversa pendente enquanto esperamos a nossa pergunta ser respondida.
-Se realmente não tivermos mais nenhuma tarefa para fazer, melhor ainda!
-Bora curtir a vida e fazer algo que gostamos no nosso tempo livre. :)
+Passe para a próxima tarefa ou responda uma conversa pendente enquanto espera a sua pergunta ser respondida.
+Se realmente não tiver mais nenhuma tarefa para fazer, melhor ainda!
+Curta a vida e faça algo que goste no seu tempo livre. :)
 
 ### Foco
 
@@ -127,22 +127,22 @@ E a comunicação assíncrona é essencial para focar porque ela não tem interr
 ## Como usamos a comunicação assíncrona
 
 A comunicação assíncrona também tem desafios.
-Ela exige que abordemos o nosso trabalho de uma forma diferente.
-Por isso, que o [senso de dono](../../sobre/valores.md#senso-de-dono) é importante.
-A comunicação assíncrona não funciona se esperamos alguém nos falar o que fazer.
-Precisamos tomar a frente das coisas.
+Ela exige que você aborde o seu trabalho de forma diferente.
+Por isso, o [senso de dono](../../sobre/valores.md#senso-de-dono) é importante.
+A comunicação assíncrona não funciona se você esperar alguém te falar o que fazer.
+É necessário que você tome a frente das coisas.
 
 Aqui, no Zoonk, usamos o GitHub para gerenciar a nossa comunicação assíncrona.
-Existem três coisas que precisamos olhar todos os dias de trabalho:
+Existem três coisas que você precisa olhar todos os dias de trabalho:
 
 - Tem alguma [tarefa designada para mim](https://github.com/issues/assigned)?
 - Tem alguma [revisão de tarefa designada para mim](https://github.com/pulls/assigned)?
 - Tem alguma [conversa que exige resposta minha](https://github.com/notifications?query=is%3Adiscussion+reason%3Amention+)?
 
-Se não temos nenhuma tarefa designada para nós, nada para revisar e nenhuma conversa pendente,
-então podemos escolher uma nova tarefa que desperte o interesse.
+Se não tiver nenhuma tarefa designada para você, nada para revisar e nenhuma conversa pendente,
+então pode escolher uma nova tarefa que desperte o seu interesse.
 Todos os projetos e tarefas disponíveis estão visíveis na [página do projeto](https://github.com/orgs/zoonk/projects/11).
-Todas as tarefas na coluna `Próximas tarefas` estão aprovadas e podemos trabalhar nelas.
+Todas as tarefas na coluna `Próximas tarefas` estão aprovadas e você pode trabalhar nelas.
 
 ## E se eu não gostar de comunicação assíncrona?
 
