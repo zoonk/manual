@@ -3,8 +3,8 @@
 Nós usamos o GitHub para gerenciar os nossos projetos e tarefas.
 A [página do projeto](https://github.com/orgs/zoonk/projects/11) lista todas as atividades nas quais estamos trabalhando atualmente.
 Nós valorizamos o [senso de dono](../sobre/valores.md#senso-de-dono).
-Portanto, cabe a cada um de nós escolher um projeto e tarefa nos quais gostaríamos de trabalhar.
-Não esperamos que outras pessoas nos digam o que fazer.
+Portanto, cabe a você escolher uma tarefa na qual gostaria de trabalhar.
+Não espere que outras pessoas te digam o que fazer.
 Leia o [guia de contribuição](../CONTRIBUTING.md) para saber como ajudar no projeto.
 
 ## Criando um repositório
