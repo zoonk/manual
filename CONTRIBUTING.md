@@ -20,8 +20,8 @@ As tarefas são organizadas da seguinte maneira:
 |In Review|Tarefas que estão parcialmente concluídas ou esperando alguém revisá-las. Depois de [abrir uma pull request](./como-trabalhamos/como-usar-o-github.md) para uma tarefa, mova a tarefa de `In Progress` para cá.|
 |Done|Tarefas que estão completas e publicadas na `branch` principal (`main`). Isso não significa, necessariamente, que elas já foram publicadas para o usuário final.|
 
-As tarefas que ainda não foram priorizadas não aparecem na aba principal (`Planned`).
-Mas você pode vê-las na aba `Backlog`.
+As tarefas que ainda não foram priorizadas não aparecem na [aba principal (`Planned`)](https://github.com/orgs/zoonk/projects/11/views/1).
+Mas você pode vê-las na [aba Backlog](https://github.com/orgs/zoonk/projects/11/views/3).
 Para sugerir uma nova funcionalidade ou comunicar algum erro, [inicie uma nova conversa](./como-trabalhamos/gerenciar-conversas.md).
 
 ## Erros, sugestões, discussões de ideias e opiniões
