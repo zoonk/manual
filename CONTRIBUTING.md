@@ -32,17 +32,17 @@ sugerir funcionalidades, discutir ideias e dar opiniões.
 ## Como contribuir em um projeto do Zoonk
 
 - Navegue até a [página do projeto](https://github.com/orgs/zoonk/projects/11).
-- Escolha uma tarefa que esteja na coluna `Próximas Tarefas` e não esteja designada a ninguém.
-- Designamos (`assign`) essa tarefa para nós mesmos.
-- Movemos a tarefa para a coluna `Em Progresso`.
-- Criamos uma nova `branch` para trabalhar nessa tarefa.
-- [Abrimos uma pull request](./como-trabalhamos/como-usar-o-github.md) quando a tarefa estiver completa.
-- Designamos (`assign`) a `pull request` para a pessoa líder do projeto (podemos encontrá-la no arquivo `README` do repositório).
-- Movemos a tarefa para a coluna `Em Revisão`.
+- Escolha uma tarefa que esteja na coluna `Todo` e não esteja designada a ninguém.
+- Designe (`assign`) essa tarefa para você.
+- Mova a tarefa para a coluna `In Progress`.
+- Crie uma nova `branch` para trabalhar nessa tarefa.
+- [Abra uma pull request](./como-trabalhamos/como-usar-o-github.md) quando a tarefa estiver completa.
+- Designe (`assign`) a `pull request` para a pessoa líder do projeto (podemos encontrá-la no arquivo `README` do repositório).
+- Mova a tarefa para a coluna `In Review`.
 
 ## Revisando tarefas
 
-Depois de revistar uma tarefa (`pull request`), existem dois cenários possíveis:
+Depois de revisar uma tarefa (`pull request`), existem dois cenários possíveis:
 
 ### Trabalho é aprovado
 
