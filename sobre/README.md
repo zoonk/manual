@@ -9,7 +9,7 @@ a **educação** mais **divertida**, **prática**, **diversa** e **acessível** 
 ## Por que estamos trabalhando nisso?
 
 Acreditamos que a educação seja essencial para construir uma sociedade mais diversa onde todos tenham oportunidades iguais.
-Porém, uma boa educação não é acessível para todos.
+Porém, nem todos têm acesso a uma educação de qualidade atualmente.
 Isso acontece por muitos motivos.
 Em muitos lugares, o ensino é:
 
@@ -51,9 +51,9 @@ A desinformação também torna mais difícil combater essas doenças por causa 
 Quando o ensino é **mais focado em decoreba do que resolver problemas**,
 falhamos em preparar as novas gerações para as necessidades do século 21.
 Nós temos todas as informações que precisamos na palma da mão graças aos celulares.
-Não precisamos mais de decoreba.
 Ensinar [como resolver problemas](https://www.weforum.org/agenda/2018/07/the-skills-needed-to-survive-the-robot-invasion-of-the-workplace)
-é mais importante para evitar o [desemprego tecnológico](https://en.wikipedia.org/wiki/Technological_unemployment) causado pela automação.
+é mais importante para evitar o [desemprego tecnológico](https://en.wikipedia.org/wiki/Technological_unemployment) causado pela automação
+do que ensinar a memorizar informação.
 
 ## Como podemos resolver esses problemas?
 
