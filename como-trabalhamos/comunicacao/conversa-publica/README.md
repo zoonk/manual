@@ -1,6 +1,6 @@
 # Conversa pública
 
-[Transparência](../../sobre/valores.md#transparência) é essencial no que estamos fazendo.
+[Transparência](../../../sobre/valores.md#transparência) é essencial no que estamos fazendo.
 Portanto, todo o nosso processo de comunicação acontece de forma pública.
 
 ## Exemplos
