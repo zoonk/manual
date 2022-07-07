@@ -48,8 +48,6 @@ precisamos atualizar os nossos modelos de tarefa (`Issue templates`):
 - [ ] Crie um novo documento na pasta `.github/ISSUE_TEMPLATE` com o nome `config.yml`.
 - [ ] Copie o conteúdo [deste arquivo](../.github/ISSUE_TEMPLATE/config.yml) no novo documento.
 - [ ] Atualize os links do documento para utilizar o endereço (URL) do novo repositório.
-- [ ] Crie um novo documento na pasta `.github/ISSUE_TEMPLATE` com o nome `tarefa-aprovada.md`.
-- [ ] Copie o conteúdo [deste arquivo](../.github/ISSUE_TEMPLATE/tarefa-aprovada.md) no novo documento.
 
 Agora vamos atualizar as configurações gerais do repositório:
 
