@@ -53,8 +53,10 @@ Agora vamos atualizar as configurações gerais do repositório:
 
 - [ ] Clique na aba `Settings` do repositório.
 - [ ] Atualize a imagem que vai aparecer na pré-visualização em redes sociais (`social preview image`).
-Atualize a imagem disponível no [repositório de redes sociais](https://github.com/zoonk/redes-sociais) para incluir o nome do repositório.
-Caso você não saiba editar a imagem, crie uma nova tarefa (`issue`) naquele repositório solicitando que um designer crie a imagem.
+      Atualize a imagem disponível no
+      [repositório de redes sociais](https://github.com/zoonk/social-media/blob/main/templates/GitHub_Social_Preview.sketch)
+      para incluir o nome do repositório.
+      Caso você não saiba editar a imagem, crie uma nova tarefa (`issue`) naquele repositório solicitando que um designer crie a imagem.
 - [ ] Na sessão `Features`, desmarque a opção `Wiki`.
 - [ ] Marque a opção `Issues`.
 - [ ] Marque a opção `Projects`.
