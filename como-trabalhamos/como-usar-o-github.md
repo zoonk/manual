@@ -1,8 +1,8 @@
 # Como usar o GitHub
 
 Este guia é focado, principalmente, para quem não trabalha com desenvolvimento de software porque
-existem mais recursos e tutoriais sobre como usar o Git e GitHub para desenvolvedores.
-Se você é um desenvolvedor júnior ou se não trabalha com desenvolvimento de software,
+existem recursos e tutoriais mais completos para desenvolvedores sobre como usar o Git e GitHub.
+Se você nunca trabalhou com Git antes,
 vale a pena dar uma olhada no [guia do GitHub](https://docs.github.com/pt/get-started/quickstart/hello-world)
 e pesquisar alguns tutoriais online,
 como [este do Tableless](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
@@ -52,7 +52,7 @@ aumentaria a complexidade do projeto e os [nossos recursos são bem limitados](h
 
 ## Como fazer alterações
 
-Este guia vai focar em como você pode alterar arquivos utilizando o site github.com.
+Este guia vai focar em como você pode alterar arquivos utilizando o site `github.com`.
 Porém, você também pode utilizar as seguintes ferramentas para usos mais avançados (não obrigatório):
 
 - [GitHub Desktop](https://desktop.github.com/)
@@ -64,16 +64,19 @@ Porém, você também pode utilizar as seguintes ferramentas para usos mais avan
 ### Criando uma branch
 
 A primeira coisa que você precisa fazer quando começa a trabalhar em uma tarefa (`issue`) é [criar uma nova branch](https://docs.github.com/pt/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches).
-Costuma ser útil dar um nome descritivo para as `branches`, incluindo o seu nome de usuário e o número de identificação da tarefa.
+Costuma ser útil dar um nome descritivo para as `branches`, incluindo o número de identificação da tarefa.
 Por exemplo: `meunomedeusuario/42-atualizar-o-guia-do-github`.
 
-No lado direito da página da tarefa (`issue`) tem um link que permite criar uma `branch` diretamente daquela página:
+No lado direito da página da tarefa (`issue`) tem um link que [permite criar uma `branch` diretamente daquela página](https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue):
 
 ![Captura de tela do GitHub mostrando o link para criar uma nova branch](https://user-images.githubusercontent.com/4393133/176026827-016a975f-f49d-462c-9a27-a00b2f64e4f6.png)
 
+Ao usar esse link, o GitHub vai criar automaticamente uma `branch` com um nome descritivo.
+
 ### Atualizando um documento
 
-Depois de criar uma `branch`, navegue até o documento que você gostaria de atualizar.
+Depois de criar uma `branch`, clique no nome da `branch` para acessá-la.
+Feito isso, navegue até o documento que você gostaria de atualizar.
 Por exemplo: Este documento, que você está lendo, está localizado na pasta `como-trabalhamos` com o nome de `como-usar-o-github.md`.
 
 O GitHub tem um botão com o ícone de um lápis que você pode utilizar para editar a página.
@@ -99,7 +102,7 @@ Caso contrário, pule para a sessão "[Publicando alterações](#publicando-alte
 Antes de adicionar um novo documento, tenha certeza que você criou uma nova `branch`
 e que você esteja trabalhando nessa `branch` ao invés da principal (`main`).
 
-Depois de criar a sua `branch`, você pode adicionar um novo documentos clicando nos botões `Add file` e `Create new file`.
+Depois de criar a sua `branch`, você pode adicionar um novo documento clicando nos botões `Add file` e `Create new file`.
 Se você já tiver criado os documentos no seu computador e não quiser utilizar o editor do GitHub,
 pode usar a opção `Upload files` para enviar os arquivos do seu computador para o repositório no GitHub.
 
@@ -117,6 +120,9 @@ Após nomear o documento, digite o conteúdo desejado e clique no botão `Commit
 Lembrando que o arquivo será salvo apenas na sua `branch` por enquanto.
 Você ainda precisará abrir uma `pull request` para solicitar que as suas alterações sejam publicadas.
 
+> Evite evitar arquivos de Word, Excel, Power Point, etc. neste espaço.
+> Se você precisar desses documentos, use o Google Docs e coloque o link para os documentos aqui.
+
 ### Apagando um documento
 
 Para apagar um documento você pode seguir os mesmos passos utilizados para atualizar algo.
@@ -126,12 +132,12 @@ Porém, você precisará clicar no ícone de lixeira ao invés de clicar no de l
 
 Como falamos na parte dos [principais conceitos](#principais-conceitos), uma `branch` é onde salvamos as novas alterações de forma temporária.
 Por enquanto, as suas alterações estão visíveis apenas na sua `branch` porque elas não estão publicadas ainda.
-É como se fosse o nosso rascunho. Podemos colocar qualquer alteração lá, que não vai afetar o que está publicado na `branch` principal (`main`).
+É como se fosse o nosso rascunho. Você pode colocar qualquer alteração lá, que não vai afetar o que está publicado na `branch` principal (`main`).
 Para publicar as suas alterações, você precisa abrir uma [pull request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
-Abir uma `pull request` é a forma de pedir que o seu trabalho seja revisado por outro integrante da equipe.
+Abrir uma `pull request` é a forma de pedir que o seu trabalho seja revisado por outro integrante da equipe.
 Depois que a sua alteração for aprovada, ela será publicada na `branch` principal (`main`) e a sua `branch` temporária será apagada.
-Você pode seguir estes passos para abrir uma `pull request`:
+Siga os passos abaixo para abrir uma `pull request`:
 
 - Clique na aba `Pull requests`.
 - Clique no botão `New pull request`.
@@ -147,7 +153,8 @@ Se tudo estiver correto, faça o seguinte:
 (ex. `Como trabalhamos: Atualiza instruções sobre como apagar um documento`).
 - Descreva as alterações que você fez e acrescente quaisquer comentários que possam ser relevantes para explicar a mudança.
 - Se a sua `pull request` for relacionada à uma tarefa, use a palavra-chave `Closes #42`, onde `42` é o número de identificação da tarefa.
-Isso vai garantir que a tarefa seja encerrada automaticamente quando a `pull request` for publicada na `branch` principal.
+  Isso vai garantir que a tarefa seja encerrada automaticamente quando a `pull request` for publicada na `branch` principal.
+  _Você não precisa fazer isso se criou a `branch` usando o link `Create a branch` na página da tarefa._
 - Na coluna do lado direito tem dois items chamados `Reviewers` (Revisores) e `Asignees` (Designados):
 
 <img alt="Captura de tela do GitHub mostrando a coluna lateral direita" src="https://user-images.githubusercontent.com/4393133/175761006-966d6a5c-b91e-49fe-bf07-0520e223974e.png">
@@ -160,5 +167,5 @@ Após seguir os passos acima, clique no botão `Create pull request`.
 O GitHub vai criar uma `pull request` para que seja revisada.
 Depois de aprovada, ela será publicada na `branch` principal (`main`) pela pessoa que revisou por último o seu trabalho.
 
-**Importante:** Depois de criar a `pull request`, mova a sua tarefa da coluna `Em Progresso` para `Em Revisão`.
-Se você precisar fazer uma correção pequena (ex. corrigir um erro de digitação), não é necessário criar uma tarefa (`issue`) para isso.
+> **Importante:** Depois de criar a `pull request`, mova a sua tarefa da coluna `In Progress` para `In Review`.
+> Se você precisar fazer uma correção pequena (ex. corrigir um erro de digitação), não é necessário criar uma tarefa (`issue`) para isso.
