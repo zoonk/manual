@@ -15,6 +15,7 @@ As tarefas são organizadas da seguinte maneira:
 
 |Coluna|Descrição|
 |------|---------|
+|Blocked|Tarefas que dependem de outras tarefas para serem realizadas. Quando as outras forem concluídas, mova a tarefa para `Todo`.|
 |Todo|Tarefas aprovadas. Pode começar a trabalhar nelas imediatamente.|
 |In Progress|Tarefas que estão em andamento. Ao iniciar uma tarefa, mova ela de `Todo` para esta coluna.|
 |In Review|Tarefas que estão parcialmente concluídas ou esperando alguém revisá-las. Depois de [abrir uma pull request](./como-trabalhamos/como-usar-o-github.md) para uma tarefa, mova a tarefa de `In Progress` para cá.|
