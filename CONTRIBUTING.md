@@ -32,14 +32,14 @@ sugerir funcionalidades, discutir ideias e dar opiniões.
 
 ## Como contribuir em um projeto do Zoonk
 
-- Navegue até a [página do projeto](https://github.com/orgs/zoonk/projects/11).
-- Escolha uma tarefa que esteja na coluna `Todo` e não esteja designada a ninguém.
-- Designe (`assign`) essa tarefa para você.
-- Mova a tarefa para a coluna `In Progress`.
-- Crie uma nova `branch` para trabalhar nessa tarefa.
-- [Abra uma pull request](./como-trabalhamos/como-usar-o-github.md) quando a tarefa estiver completa.
-- Designe (`assign`) a `pull request` para a pessoa líder do projeto (podemos encontrá-la no arquivo `README` do repositório).
-- Mova a tarefa para a coluna `In Review`.
+- [ ] Navegue até a [página do projeto](https://github.com/orgs/zoonk/projects/11).
+- [ ] Escolha uma tarefa que esteja na coluna `Todo` e não esteja designada a ninguém.
+- [ ] Designe (`assign`) essa tarefa para você.
+- [ ] Mova a tarefa para a coluna `In Progress`.
+- [ ] Crie uma nova `branch` para trabalhar nessa tarefa.
+- [ ] [Abra uma pull request](./como-trabalhamos/como-usar-o-github.md) quando a tarefa estiver completa.
+- [ ] Designe (`assign`) a `pull request` para a pessoa líder do projeto (podemos encontrá-la no arquivo `README` do repositório).
+- [ ] Mova a tarefa para a coluna `In Review`.
 
 ## Revisando tarefas
 
@@ -61,3 +61,22 @@ Depois de revisar uma tarefa (`pull request`), existem dois cenários possíveis
 
 - Use a opção `Squash and merge` para publicar uma `pull request`.
 - Remova toda a descrição gerada automaticamente pelo GitHub para evitar poluir o histórico de alterações.
+
+## Criando tarefas
+
+Siga os passos abaixo para criar uma nova tarefa:
+
+- [ ] Vá na [aba `All` do gerenciador de tarefas do projeto](https://github.com/orgs/zoonk/projects/11/views/2).
+- [ ] Use `Ctrl + Barra de espaço` para adicionar um novo item.
+- [ ] Selecione o item criado, clique na seta para baixo e, depois, em `Convert to issue`:
+
+![Captura de tela do GitHub mostrando como converter um item em tarefa](https://user-images.githubusercontent.com/4393133/178562514-e66903ec-ed0e-4998-a679-2d6dbeee9cc1.png)
+
+- [ ] Selecione o repositório onde você gostaria de criar a tarefa.
+      Caso a tarefa seja um `Epic` (tenha sub-tarefas) e pertença a vários repositórios, selecione `.github`.
+- [ ] Na coluna `Status`, selecione um dos itens de acordo com a [tabela acima em `Como organizar tarefas`](#como-organizar-tarefas).
+- [ ] Na coluna `Category`, selecione `Epic` caso ela tenha sub-tarefas.
+      Caso contrário, selecione `Bug` para erros, `Feature` para uma nova funcionalidade ou
+      `Enhancement` para melhorias de uma funcionalidade existente.
+- [ ] Na coluna `Assignees`, designe quem vai trabalhar na tarefa.
+      Caso tenha criado um `Epic`, designe você mesmo porque é sua responsabilidade garantir que todas as tarefas sejam completadas.
