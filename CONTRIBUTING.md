@@ -78,5 +78,5 @@ Siga os passos abaixo para criar uma nova tarefa:
 - [ ] Na coluna `Category`, selecione `Epic` caso ela tenha sub-tarefas.
       Caso contrário, selecione `Bug` para erros, `Feature` para uma nova funcionalidade ou
       `Enhancement` para melhorias de uma funcionalidade existente.
-- [ ] Na coluna `Assignees`, designe quem vai trabalhar na tarefa.
+- [ ] Na coluna `Assignees`, designe quem vai trabalhar na tarefa (deixe em branco caso não saiba).
       Caso tenha criado um `Epic`, designe você mesmo porque é sua responsabilidade garantir que todas as tarefas sejam completadas.
