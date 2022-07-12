@@ -15,6 +15,7 @@ As tarefas são organizadas da seguinte maneira:
 
 |Coluna|Descrição|
 |------|---------|
+|Pending Specs|Rascunhos. Falta especificar os requirementos da tarefa.|
 |Blocked|Tarefas que dependem de outras tarefas para serem realizadas. Quando as outras forem concluídas, mova a tarefa para `Todo`.|
 |Todo|Tarefas aprovadas. Pode começar a trabalhar nelas imediatamente.|
 |In Progress|Tarefas que estão em andamento. Ao iniciar uma tarefa, mova ela de `Todo` para esta coluna.|
